@@ -1,0 +1,23 @@
+body {
+  background-color: #262624;
+  font-family: 'Courgette', cursive;
+  text-align: center;
+  color: #d97f3f;
+}
+
+h1 {
+  font-size: 5.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  text-shadow: orange 3px 0;
+}
+
+.dice {
+  display: inline-block;
+  font-size: 1.5rem;
+  margin: auto 1rem;
+}
+
+.footer {
+  color: grey;
+}
